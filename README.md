@@ -1,9 +1,9 @@
 # logconverge
 
 ```
--keep class com.cn.maimeng.logconverge.entity.**{*;}
+-keep class com.moment.logconverge.entity.**{*;}
 
--dontwarn com.cn.maimeng.logconverge.entity.**
+-dontwarn com.moment.logconverge.entity.**
 
 -keep class org.litepal.** {
     *;
